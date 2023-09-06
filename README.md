@@ -1,6 +1,6 @@
-# Rating-Product-Sorting-Reviews-in-Amazon
+# Rating Product Sorting Reviews in Amazon
 
-# Business Problem
+# Business Problem  
 E-commerce faces two significant challenges: accurately assigning points to products after sales and properly organizing product reviews. Successfully addressing these issues leads to increased customer satisfaction, greater product visibility for sellers, and an overall seamless shopping experience for buyers. Misleading reviews can directly impact product sales, resulting in financial and customer losses. Addressing these core issues can benefit both the e-commerce platform and sellers by driving sales and enhancing customer experiences.
 
 # Dataset Story
